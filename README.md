@@ -1,4 +1,4 @@
-Computes various distance measures from a station to a fault.
+Compute various distance measures from a station to a fault.
 
 such as:
 
